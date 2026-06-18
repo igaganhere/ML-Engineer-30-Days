@@ -1,0 +1,21 @@
+Customer_ID,City,Education_Level,ZipCode,House_Price,Target_Label
+1,New York,High School,ZIP_100,250000,Churn
+2,London,Bachelors,ZIP_101,320000,Stay
+3,Paris,Masters,ZIP_102,450000,Stay
+4,New York,PhD,ZIP_100,500000,Stay
+5,London,High School,ZIP_103,210000,Churn
+6,Paris,Bachelors,ZIP_102,340000,Churn
+7,New York,Masters,ZIP_104,410000,Stay
+8,London,PhD,ZIP_101,550000,Stay
+9,Paris,High School,ZIP_104,230000,Churn
+10,New York,Bachelors,ZIP_100,290000,Churn
+11,London,Masters,ZIP_103,390000,Stay
+12,Paris,PhD,ZIP_102,600000,Stay
+13,New York,High School,ZIP_104,220000,Churn
+14,London,Bachelors,ZIP_101,310000,Stay
+15,Paris,Masters,ZIP_100,430000,Churn
+16,New York,PhD,ZIP_103,520000,Stay
+17,London,High School,ZIP_102,205000,Churn
+18,Paris,Bachelors,ZIP_104,330000,Stay
+19,New York,Masters,ZIP_101,420000,Stay
+20,London,PhD,ZIP_103,580000,Stay
